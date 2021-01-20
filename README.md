@@ -1,10 +1,10 @@
 # network
 
-//compile
+//compile  
 gcc server.c -o server
 
-//run
+//run  
 ./server
 
-//tcp test
+//tcp test  
 nc 192.168.0.10 2399
